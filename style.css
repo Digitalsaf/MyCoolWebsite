@@ -29,3 +29,9 @@ img {
     border-color: green;
     display: block;
 }
+
+img:hover {
+    border-color:purple;
+    border-radius: 0%;
+    border-style: dotted;
+}
