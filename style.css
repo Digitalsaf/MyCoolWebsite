@@ -65,6 +65,8 @@ color: pink;
 #tableA, th, td {
     border: 2px solid yellowgreen;
     font-size: large;
-    margin-left: 1650px;
+    width: auto;
+    margin-right: 0px;
+    margin-left: auto;
     position: relative;
 }
