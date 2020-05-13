@@ -61,3 +61,10 @@ color: pink;
             background-color: #4CAF50;
             color: white;
           }
+
+#tableA, th, td {
+    border: 2px solid yellowgreen;
+    font-size: large;
+    margin-left: 1650px;
+    position: relative;
+}
